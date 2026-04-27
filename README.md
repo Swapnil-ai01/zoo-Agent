@@ -5,7 +5,7 @@ This is my Gen AI project where i use and learn multiple AI and cloud tools. Thi
 <ul>
   <li>Make a project in google cloud console.</li>
   <li>Activate Cloud Shell.</li>
-  <li>git clone.</li>
+  <li>git clone https://github.com/Swapnil-ai01/zoo-Agent.git</li>
   <li>Make .env file in zoo-Agent.</li>
   <li>Write PROJECT_ID, PROJECT_NUMBER from Navigation menu > Cloud overview > Project info.</li>
   <li>Write SA_NAME what you set your service name.</li>
