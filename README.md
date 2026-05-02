@@ -1,5 +1,5 @@
 # zoo-Agent
-This is my Gen AI project where i use and learn multi agent AI LLM model integration and cloud tools. This is the good example of multi AI agent project where i use ( Google ADK, Google Cloud console, artifacts ).
+This is my Gen AI project where i use and learn multi agent AI LLM model integration and cloud tools. This is the good example of multi agent project where i use ( Google ADK, Google Cloud console, artifacts ).
 
 <h4>How to run this project.</h2>
 <ul>
